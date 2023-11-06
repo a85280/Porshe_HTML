@@ -22,4 +22,4 @@ print ("Eu apaixonado pela Porsche")
 print ("Eu tenho um Porsche GT3 RS")
 ```
 
-![Imagem do meu carro (Porsche GT3 RS)](https://e7.pngegg.com/pngimages/452/296/png-clipart-porsche-macan-2017-porsche-911-carrera-s-2017-porsche-911-carrera-gts-2018-porsche-911-turbo-porsche-compact-car-convertible.png)
+![Imagem do meu carro (Porsche GT3 RS)](https://files.porsche.com/filestore/image/multimedia/none/992-gt3-modelimage-sideshot/model/765dfc51-51bc-11eb-80d1-005056bbdc38/porsche-model.png)
